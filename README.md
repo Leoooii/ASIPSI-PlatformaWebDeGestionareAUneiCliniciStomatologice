@@ -3,7 +3,7 @@
 ## Continut:
 [SRS- Document de specificare a cerintelor](https://github.com/Leoooii/ASIPSI-PlatformaWebDeGestionareAUneiCliniciStomatologice/blob/main/Lab2_template_srsdocument-ro.docx)
 [Document de specificatii tehnice]()
-[Prezentare proiect]()
+[Prezentare proiect](https://github.com/Leoooii/ASIPSI-PlatformaWebDeGestionareAUneiCliniciStomatologice/blob/main/ASIPSI_Platforma_web_pentru_gestionarea_unei_clinici_stomatologice.pptx)
 [Board Jira]()
 
 ## Despre
